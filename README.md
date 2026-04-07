@@ -4,7 +4,7 @@
 ![图片3](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/12.jpg)
 # Cloudflare Worker 部署
 
-文件：`worker.js`
+复制代码文件：`worker.js` 在Cloudflare 创建`Create Worker` 链接数据库自动更新订阅资源
 
 ---
 
